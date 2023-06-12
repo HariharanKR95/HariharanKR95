@@ -25,10 +25,11 @@ Maven Build Tool
 Postman, Swagger Documentation
 
 I have confidence to handle backend with Spring Framework.
+
 🛠️ Languages and Tools :
 Java Python  Spring HTML CSS JavaScript  MySQL  Git  Bitbucket  Github  Github
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-Ashutosh's github activity graph
+
 
 Coding
 
