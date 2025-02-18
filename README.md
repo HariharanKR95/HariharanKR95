@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HARIHARAN KR</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<a href="https://git.io/typing-svg"><img align="justify" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HARIHARAN+KR;5%2B+Years+of+Fullstack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="justify" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HARIHARAN+KR;6%2B+Years+of+Fullstack+Developer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharankr95&label=Profile%20views&color=0e75b6&style=flat" alt="hariharankr95" /> </p>
 
@@ -9,15 +9,15 @@
 <img align="center" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Spring Boot And Microservices**
+- 🔭 I’m currently working on **CAMUNDA BPM**
 
 - 🌱 I’m currently learning **NodeJs & ReactJs**
 
-- 👯 I’m looking to collaborate on **NodeJs**
+- 👯 I’m looking to collaborate on **Spring Boot And Microservices**
 
 - 🤝 I’m looking for help with **NodeJs & ReactJs**
 
-- 💬 Ask me about **JAva Java 8 Springboot Microservices**
+- 💬 Ask me about **CoreJAva, Java 8, Springboot, Microservices**
 
 - 📫 How to reach me **hariharankr95@gmail.com**
 
