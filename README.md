@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HARIHARAN KR</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
-<a href="https://git.io/typing-svg"><img align="justify" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HARIHARAN+KR;6%2B+Years+of+Fullstack+Developer" alt="Typing SVG" /></a>
+<h3 align="center">A passionate BPM developer from India</h3>
+<a href="https://git.io/typing-svg"><img align="justify" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HARIHARAN+KR;6%2B+Years+of+BPM+Developer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharankr95&label=Profile%20views&color=0e75b6&style=flat" alt="hariharankr95" /> </p>
 
